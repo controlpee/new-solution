@@ -1,0 +1,24 @@
+{
+  "name": "new-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/controlpee/new-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/controlpee/new-solution/issues"
+  },
+  "homepage": "https://github.com/controlpee/new-solution#readme",
+  "dependencies": {
+    "get-port-sync": "^1.0.1",
+    "jsonist": "^3.0.1"
+  }
+}
